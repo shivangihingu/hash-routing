@@ -1,0 +1,22 @@
+.body{
+  text-align: center;
+}
+
+nav{
+  display: flex;
+  justify-content: center;
+}
+
+ul{
+  display: flex;
+  list-style-type: none;
+}
+
+li{
+  margin-left: 2rem;
+  margin-right: 2rem;
+}
+
+.text-center {
+  text-align: center;
+}
